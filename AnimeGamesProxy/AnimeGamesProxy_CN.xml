@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="Server">https://ps.yuuki.me</string>
+    <boolean name="isRSAPatchEnabled" value="true" />
+    <boolean name="isProxyEnabled" value="true" />
+</map>

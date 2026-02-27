@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="Server">https://ps.yuuki.me</string>
+    <boolean name="ChannelConfigHook" value="false" />
+    <boolean name="isRSAPatchEnabled" value="true" />
+    <boolean name="isProxyEnabled" value="true" />
+    <boolean name="DisableABTest" value="false" />
+</map>
